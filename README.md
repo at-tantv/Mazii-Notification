@@ -2,7 +2,7 @@
 
 Theo dõi thông báo bài viết Mazi.net
 
-[![mazii](https://www.upsieutoc.com/images/2020/07/09/banner3.png)](https://www.youtube.com/channel/UCwuI7sMzlNXae3jtazkJK8w) 
+[![mazii](https://www.upsieutoc.com/images/2020/07/09/banner3bd7f156a945491ba.png)](https://www.youtube.com/channel/UCwuI7sMzlNXae3jtazkJK8w) 
 
 ## Installation
 
