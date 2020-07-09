@@ -1,0 +1,38 @@
+{
+    "name": "Mazii - Notification",
+    "version": "1.0.1",
+    "description": "An application for support notification of Mazii.net !",
+    "permissions": [
+    "storage", "contextMenus",
+    "notifications",
+    "unlimitedStorage",
+    "webRequest",
+    "*://*/*"
+    ],
+    "background": {
+    "scripts": ["/scripts/m_api.js","/scripts/m_common.js","/scripts/m_notification.js","/scripts/m_ui.js","/scripts/m_background.js"],
+    "persistent": true
+    },
+    "browser_action": {
+    "default_title": "Mazii - Notification",
+    "default_popup": "/html/popup.html",
+    "default_icon": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "64": "images/icon-64.png",
+    "128": "images/icon-128.png",
+    "256": "images/icon-256.png",
+    "512": "images/icon-512.png"
+    }
+    },
+    "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "64": "images/icon-64.png",
+    "128": "images/icon-128.png",
+    "256": "images/icon-256.png",
+    "512": "images/icon-512.png"
+    },
+    "options_page": "/html/options.html",
+    "manifest_version": 2
+}
