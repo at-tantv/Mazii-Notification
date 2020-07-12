@@ -6,7 +6,7 @@ Theo dõi thông báo bài viết Mazi.net
 
 ## Installation
 
-Có 2 cách để cài đặt extension (Cách 1 thì tiện lợi nhưng version đang là 1.0 - bản mới nhất 1.0.1)
+Có 2 cách để cài đặt extension
 
 **1. HƯỚNG DẪN CÀI ĐẶT TỪ STORE**
 * Bước 1: Tải extention tại đây: 
